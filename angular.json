@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Parcial"
+    }
+  },
+  "defaultProject": "Parcial",
+  "cli": {
+    "analytics": false
+  }
 }
